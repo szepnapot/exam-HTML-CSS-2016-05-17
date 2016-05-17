@@ -1,0 +1,51 @@
+main {
+	width: 540px;
+	height: 185px;
+	background: #CCCCCC;
+	display: flex;
+	font-family: arial;
+	font-size: 14px;
+}
+
+.left-side {
+	padding: 20px 20px 0;
+	
+}
+
+logo {
+	width: 97px;
+	height: 97px;
+}
+
+
+.right-side {
+	padding: 25px 40px 25px 25px;
+	position: relative;
+}
+
+h1 {
+	font-size: 24px;
+	margin: 0;
+	font-style: italic;
+}
+
+.info {
+	display: flex;
+	flex-direction: row;
+}
+
+.acc, .acc-data {
+	display: block;
+	width: 110px;
+}
+
+.acc {
+	font-weight: bold;
+	line-height: 1.2em;
+}
+
+.edit {
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}
