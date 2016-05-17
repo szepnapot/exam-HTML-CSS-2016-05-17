@@ -36,7 +36,7 @@ h1 {
 }
 
 p {
-	margin-bottom: 12px;
+	margin-bottom: 10px;
 }
 
 .info {
@@ -47,7 +47,7 @@ p {
 .acc, .acc-data {
 	display: block;
 	width: 110px;
-	line-height: 1.3em;
+	line-height: 1.4em;
 }
 
 .acc {
