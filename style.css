@@ -17,9 +17,14 @@ logo {
 	height: 97px;
 }
 
+.short-border {
+	margin: 20px 0;
+	width: 1px;
+	background: black;
+}
 
 .right-side {
-	padding: 25px 40px 25px 25px;
+	padding: 22px 40px 25px 25px;
 	position: relative;
 }
 
@@ -27,6 +32,10 @@ h1 {
 	font-size: 24px;
 	margin: 0;
 	font-style: italic;
+}
+
+p {
+	margin-bottom: 12px;
 }
 
 .info {
@@ -37,11 +46,11 @@ h1 {
 .acc, .acc-data {
 	display: block;
 	width: 110px;
+	line-height: 1.3em;
 }
 
 .acc {
 	font-weight: bold;
-	line-height: 1.2em;
 }
 
 .edit {
