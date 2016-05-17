@@ -5,6 +5,7 @@ main {
 	display: flex;
 	font-family: arial;
 	font-size: 14px;
+	border: 1px solid black;
 }
 
 .left-side {
@@ -24,7 +25,7 @@ logo {
 }
 
 .right-side {
-	padding: 22px 40px 25px 25px;
+	padding: 22px 40px 25px 20px;
 	position: relative;
 }
 
